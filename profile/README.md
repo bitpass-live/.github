@@ -59,16 +59,6 @@ We welcome contributions from developers, designers, writers, and Bitcoin enthus
 - Engage with us on social media and spread the word about BitPass
 - Organize events using BitPass and provide feedback
 
-## Roadmap
-
-We're constantly improving BitPass with new features and enhancements:
-
-- **Q2 2025**: Initial MVP launch with core ticketing functionality
-- **Q3 2025**: Enhanced Lightning Network integration and Nostr authentication
-- **Q4 2025**: Mobile app development and advanced analytics for organizers
-- **Q1 2026**: Multi-signature support and enhanced privacy features
-- **Q2 2026**: Decentralized identity verification and ticket transferability
-
 ## Community & Support
 
 - [**Website**](https://bitpass.live)
