@@ -62,8 +62,9 @@ We welcome contributions from developers, designers, writers, and Bitcoin enthus
 ## Community & Support
 
 - [**Website**](https://bitpass.live)
-- [**Documentation**](https://docs.bitpass.live)
+- **Documentation** (in progress)
 - [**Twitter**](https://twitter.com/bitpasslive)
+- **Discord** (in progress)
 
 ## Contributing to BitPass
 
