@@ -81,4 +81,4 @@ We believe in collaboration and open-source. If you're interested in contributin
 
 ## License
 
-BitPass is open source software licensed under the [MIT License](LICENSE).
+BitPass is open source software licensed under the [MIT License](LICENSE.md).
