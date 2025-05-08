@@ -1,6 +1,6 @@
 # Welcome to BitPass
 
-<img src="./banner.png" alt="BitPass - Bitcoin-native Ticketing Platform" width="100%" />
+<img src="../banner.png" alt="BitPass - Bitcoin-native Ticketing Platform" width="100%" />
 
 ## What is BitPass?
 
