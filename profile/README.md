@@ -67,7 +67,7 @@ We welcome contributions from developers, designers, writers, and Bitcoin enthus
 
 ## Contributing to BitPass
 
-We believe in collaboration and open-source. If you're interested in contributing to BitPass, check out our [Contribution Guidelines](profile/CONTRIBUTING.md).
+We believe in collaboration and open-source. If you're interested in contributing to BitPass, check out our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
