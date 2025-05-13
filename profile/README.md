@@ -11,7 +11,6 @@ Our mission is to provide a seamless ticketing experience that leverages Bitcoin
 ## Our Repositories
 
 - [**BitPass App**](https://github.com/bitpass-live/bitpass-app) - Next.js frontend application for event creation, ticket sales, and check-ins
-- [**BitPass API**](https://github.com/bitpass-live/bitpass-api) - Backend API services for handling payments, ticket verification, and data management
 
 ## How It Works
 
